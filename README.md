@@ -11,6 +11,9 @@ List of car shops
 ### Importation
 
 - [otomotion](https://www.otomotion.fr/)
+- [sbtjapan](https://www.sbtjapan.com)
+- [grantourismeimport](https://grandtourismeimport.com)
+- [carfromjapan](https://carfromjapan.com/fr/)
 
 ## Wrapping / Cover
 
