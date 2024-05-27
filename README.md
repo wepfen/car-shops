@@ -18,3 +18,4 @@ List of car shops
 - [wrapzone](https://wrapzone.fr/)
 - [Krytex](https://elite-detailing.fr/)
 - [Ravoony](www.ravoony.com)
+- [Squareddesign | Japanese drift style livery](https://www.squareddesign.se/liverydesign)
